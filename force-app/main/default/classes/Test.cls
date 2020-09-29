@@ -1,6 +1,6 @@
 public with sharing class Test {
     public Test() {
-        //Test master
+        //Test FA
         System.debug('Test');
     }
 }
