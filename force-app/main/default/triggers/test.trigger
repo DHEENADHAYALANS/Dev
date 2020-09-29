@@ -1,3 +1,3 @@
 trigger test on account (before insert) {
-//test master
+//test FA
 }
