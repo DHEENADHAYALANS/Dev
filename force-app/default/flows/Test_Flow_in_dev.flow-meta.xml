@@ -30,8 +30,8 @@
         <storeOutputAutomatically>true</storeOutputAutomatically>
     </recordCreates>
     <start>
-        <locationX>50</locationX>
-        <locationY>50</locationY>
+        <locationX>77</locationX>
+        <locationY>170</locationY>
         <connector>
             <targetReference>test</targetReference>
         </connector>
