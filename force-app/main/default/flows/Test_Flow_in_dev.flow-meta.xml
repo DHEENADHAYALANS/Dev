@@ -26,6 +26,12 @@
                 <elementReference>$Record.Name</elementReference>
             </value>
         </inputAssignments>
+        <inputAssignments>
+            <field>Website</field>
+            <value>
+                <stringValue>www.google.com</stringValue>
+            </value>
+        </inputAssignments>
         <object>Account</object>
         <storeOutputAutomatically>true</storeOutputAutomatically>
     </recordCreates>
